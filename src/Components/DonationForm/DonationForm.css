@@ -1,0 +1,27 @@
+.donation-form {
+  border: 2px solid #ece4e4;
+  padding-bottom: 4rem;
+  box-shadow: 2px 1px 4px 2px #888888;
+  background-color: white;
+}
+.error {
+  font-size: 25px;
+  color: red;
+}
+.form-control {
+  font-size: 16px;
+}
+.donation-text {
+  text-shadow: 1px 1px grey;
+}
+.invalid-feedback {
+  font-size: 95%;
+}
+
+.hide {
+  display: none;
+}
+
+.hide {
+  display: block;
+}

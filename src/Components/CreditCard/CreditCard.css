@@ -1,0 +1,8 @@
+.showError {
+  border: 2px solid red !important;
+  color: black !important;
+}
+
+.show {
+  display: none;
+}
